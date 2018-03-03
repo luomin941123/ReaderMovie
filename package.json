@@ -1,0 +1,19 @@
+{
+  "name": "readermovie",
+  "version": "1.0.0",
+  "description": "一个阅读+电影资讯的微信小程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luomin941123/ReaderMovie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luomin941123/ReaderMovie/issues"
+  },
+  "homepage": "https://github.com/luomin941123/ReaderMovie#readme"
+}
